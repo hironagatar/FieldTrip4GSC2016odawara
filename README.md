@@ -3,3 +3,5 @@
 
 
 - [GPSデータ gpx](https://github.com/gsc-aoyama/FieldTrip4GSC2016odawara/blob/master/FieldTrip2016-06-12_odawara.gpx)
+
+![相模原キャンパスから箱根まで](https://raw.githubusercontent.com/hironagatar/FieldTrip4GSC2016odawara/master/sagamihara%20to%20odawara.png "サンプル")
